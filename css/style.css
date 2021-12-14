@@ -116,6 +116,7 @@ a:hover {
 
 .portfolio-box {
   font-size: 0;
+	margin-bottom: 25px;
 }
 
 .portfolio .card-title {
@@ -132,10 +133,10 @@ a:hover {
 }
 
 .portfolio p {
-  margin: 0;
-  font-size: 15px;
-  font-style: oblique;
-  color: blue;
+	margin: 0 0 0 15px;
+	font-size: 15px;
+	font-style: oblique;
+	color: black;
 }
 
 .card-image img {
